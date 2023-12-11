@@ -14,4 +14,4 @@
 | Melise | Rocha | https://github.com/23W-GBAC/Melise_Rocha.git | MRI | How to increase MRI image quality? | Computer scientists|
 |DAMILOLA |ADEDIPE| https://23w-gbac.github.io/Adedipe23/| WHAT IS ARTIFICIAL INTELLIGENCE | STUDENTS |
 | Juan Pablo | Herrera Upegui | https://23w-gbac.github.io/Repojuanchoupegui/ | A Journey Into Progamming | Downloading Stuff | New Programmers |
-| Ewo-oritse Anita | Arubi | git@github.com:anitaarubi/Anita-Blog.git | The context of Social Media | The Evolution of Digital Interaction| Young and Old |
+| Ewo-oritse Anita | Arubi | git@github.com:anitaarubi/Anita-Blog.git | The Context Of Social Media | The Evolution of Digital Interaction| Young and Old |
